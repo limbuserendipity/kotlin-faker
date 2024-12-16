@@ -65,7 +65,7 @@ Latest releases are always available on maven central.
 
 ```groovy
 dependencies {
-    implementation 'io.github.serpro69:kotlin-faker:$version'
+    implementation 'io.github.serpro69:kotlin-faker:1.6.0'
 }
 ```  
 
